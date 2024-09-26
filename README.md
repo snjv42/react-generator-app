@@ -147,7 +147,7 @@ To work on the CLI tool itself:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-generator-app.git
+   git clone https://github.com/snjv42/react-generator-app.git
    ```
 
 2. Install dependencies:
